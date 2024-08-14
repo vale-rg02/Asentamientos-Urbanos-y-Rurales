@@ -2,6 +2,7 @@ package mx.unison;
 
 /* Contar cuantos códigos postales corresponden a asentamientos rurales
 y cantos a asentamientos rurales
+ */
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
